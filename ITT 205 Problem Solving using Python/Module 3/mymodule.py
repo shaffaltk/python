@@ -3,5 +3,5 @@ def printer(x): # Module attribute
 def sum(x,y): # Module attribute
   print(x+y)
 def addone(x): # Module attribute
-  print(x+1)
+  return(x+1)
 
