@@ -1,4 +1,4 @@
 import area
-r=2
+r=10
 result=area.funcircle(r)
 print(result)
