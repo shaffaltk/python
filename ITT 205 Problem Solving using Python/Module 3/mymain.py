@@ -8,7 +8,10 @@ printer("Sum is with printer")
 
 from mymodule import *
 
-
+import sum
+mylist = [1,2,3,4]
+result = sum.addnum(mylist)
+print(result)
 
 import mymodule
 x=0
